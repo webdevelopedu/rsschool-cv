@@ -4,11 +4,11 @@
 
 🌱 Сейчас я изучаю веб-программирование в RS School.
 
-| Рейтинг  | Языки     |
-|---------:|-----------|
-|         1| JavaScript|
-|         2| Python    |
-|         3| SQL       |
+| Рейтинг  | Языки      |
+|---------:|------------|
+|         1| HTML       |
+|         2| CSS        |
+|         3| JavaScript |
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
