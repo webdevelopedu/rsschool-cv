@@ -35,7 +35,7 @@ graph TD;
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://images.ctfassets.net/12phxmr4hjo6/54xZKTFT8faJLvOBIj6uTS/c1fa7d8a7f4c664b399f651e336145f7/rs-slope-angular.webp">
   <source media="(prefers-color-scheme: light)" srcset="(https://images.ctfassets.net/12phxmr4hjo6/1PQNZCgCtjBwfFS7C4X6R2/4cfd540f2f719fd8d8973325e6a377f9/rs-slope-js.webp">
-  <img alt="Учеба днем и ночью" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Учеба днем и ночью">
 </picture>
 
 **webdevelopedu/webdevelopedu** это репозиторий для ✨ _обучения_ ✨ в RS School.
