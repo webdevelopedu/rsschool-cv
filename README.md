@@ -1,7 +1,5 @@
 # Обо мне -
 
-**webdevelopedu/webdevelopedu** это репозиторий для ✨ _обучения_ ✨ в RS School.
-
 Привет, меня зовут Максим.
 
 🌱 Сейчас я изучаю веб-программирование в RS School.
@@ -12,3 +10,5 @@
   <img alt="Солнце в светлом режиме и луна со звездами в темном режиме.
 " src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
+
+**webdevelopedu/webdevelopedu** это репозиторий для ✨ _обучения_ ✨ в RS School.
