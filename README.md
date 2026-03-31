@@ -1,4 +1,6 @@
-# Обо мне -
+## Обо мне -
+
+<!-- TO DO: add more details about me later -->
 
 Привет, меня зовут Максим.
 
