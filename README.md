@@ -47,7 +47,7 @@ graph TD;
         {
           "type": "Point",
           "properties": {"prop0": "value0"},
-          "coordinates": [4000, 5000]
+          "coordinates": [53, 18]
         },
         {
           "type": "LineString",
