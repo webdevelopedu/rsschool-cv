@@ -22,7 +22,7 @@
 
 </details>
 
-**Этапы обучения:**
+*Этапы обучения:*
 ```mermaid
 graph TD;
     JavaScript/Front-end_Pre-school-->JavaScript/TypeScript/Front-end_Fundamentals;
