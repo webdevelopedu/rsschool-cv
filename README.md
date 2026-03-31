@@ -12,13 +12,13 @@
 — Аристотель
 
 <details open>
-<summary>Мои языки программирования</summary>
+<summary>Мои языки </summary>
   
-| Ранг | Языки      |
-|-----:|------------|
-|     1| HTML       |
-|     2| CSS        |
-|     3| JavaScript |
+| Номер | Языки      |
+|------:|------------|
+|      1| HTML       |
+|      2| CSS        |
+|      3| JavaScript |
   
 </details>
 
