@@ -30,4 +30,3 @@
 </picture>
 
 **webdevelopedu/webdevelopedu** это репозиторий для ✨ _обучения_ ✨ в RS School.
-
