@@ -1,9 +1,10 @@
 # Обо мне -
 
 
-**webdevelopedu/webdevelopedu** это репозиторий для обучения в ✨ _RS School_ ✨
+**webdevelopedu/webdevelopedu** это репозиторий для обучения в ✨ _RS School_ ✨.
 
-because its `README.md` (this file) appears on your GitHub profile.
+Этот `README.md` с описанием этого репозитория.
+ 
 
 🌱 Сейчас я изучаю веб-программирование
 
