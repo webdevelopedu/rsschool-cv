@@ -43,12 +43,6 @@ graph TD;
   "objects": {
     "example": {
       "type": "GeometryCollection",
-      "geometries": [
-        {
-          "type": "Point",
-          "properties": {"prop0": "value0"},
-          "coordinates": [4000, 5000]
-        },
         {
           "type": "LineString",
           "properties": {"prop0": "value0", "prop1": 0},
