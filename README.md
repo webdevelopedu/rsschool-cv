@@ -32,42 +32,6 @@ graph TD;
     AWS_Fundamentals-->AWS_Developer;
 ```
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://images.ctfassets.net/12phxmr4hjo6/54xZKTFT8faJLvOBIj6uTS/c1fa7d8a7f4c664b399f651e336145f7/rs-slope-angular.webp">
-    <source media="(prefers-color-scheme: light)" srcset="https://images.ctfassets.net/12phxmr4hjo6/1PQNZCgCtjBwfFS7C4X6R2/4cfd540f2f719fd8d8973325e6a377f9/rs-slope-js.webp">
-    <img alt="Учеба днем и ночью" src="https://images.ctfassets.net/12phxmr4hjo6/1smXnLTHAHCOfscGaaxaN3/c9316b79ec5cde3749b6d1e6601b60d8/RsBanner.svg">
-</picture>
-
-**webdevelopedu/webdevelopedu** это репозиторий для ✨ _обучения_ ✨ в RS School.
-
-
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-              [-90,35],
-              [-90,30],
-              [-85,30],
-              [-85,35],
-              [-90,35]
-          ]
-        ]
-      }
-    }
-  ]
-}
-```
-
 ```topojson
 {
   "type": "Topology",
@@ -102,3 +66,38 @@ graph TD;
   "arcs": [[[4000, 0], [1999, 9999], [2000, -9999], [2000, 9999]],[[0, 0], [0, 9999], [2000, 0], [0, -9999], [-2000, 0]]]
 }
 ```
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+              [-90,35],
+              [-90,30],
+              [-85,30],
+              [-85,35],
+              [-90,35]
+          ]
+        ]
+      }
+    }
+  ]
+}
+```
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://images.ctfassets.net/12phxmr4hjo6/54xZKTFT8faJLvOBIj6uTS/c1fa7d8a7f4c664b399f651e336145f7/rs-slope-angular.webp">
+    <source media="(prefers-color-scheme: light)" srcset="https://images.ctfassets.net/12phxmr4hjo6/1PQNZCgCtjBwfFS7C4X6R2/4cfd540f2f719fd8d8973325e6a377f9/rs-slope-js.webp">
+    <img alt="Учеба днем и ночью" src="https://images.ctfassets.net/12phxmr4hjo6/1smXnLTHAHCOfscGaaxaN3/c9316b79ec5cde3749b6d1e6601b60d8/RsBanner.svg">
+</picture>
+
+**webdevelopedu/webdevelopedu** это репозиторий для ✨ _обучения_ ✨ в RS School.
