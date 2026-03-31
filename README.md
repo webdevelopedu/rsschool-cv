@@ -29,7 +29,7 @@ graph TD;
     JavaScript/TypeScript/Front-end_Fundamentals-->React;
     React-->NodeJS;
     NodeJS-->AWS_Fundamentals;
-    D-->E;
+    AWS_Fundamentals-->AWS_Developer;
 ```
 
 <picture>
