@@ -2,6 +2,8 @@
 
 **webdevelopedu/webdevelopedu** это репозиторий для ✨ _обучения_ ✨ в RS School.
 
+Hi, I'm Mona. You might recognize me as GitHub's mascot.
+
 🌱 Сейчас я изучаю веб-программирование
 
 <picture>
