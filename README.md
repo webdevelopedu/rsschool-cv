@@ -25,9 +25,10 @@
 Этапы обучения:
 ```mermaid
 graph TD;
-    JavaScript/Front-end_Pre-school-->JavaScript/TypeScript/Front-end_Course;
-    B-->C;
-    C-->D;
+    JavaScript/Front-end_Pre-school-->JavaScript/TypeScript/Front-end_Fundamentals;
+    JavaScript/TypeScript/Front-end_Fundamentals-->React;
+    React-->NodeJS;
+    NodeJS-->AWS_Fundamentals;
     D-->E;
 ```
 
